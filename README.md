@@ -23,8 +23,8 @@ The training notebook focuses on building a spam classifier model. Notably, this
 
 - **Numpy**: Utilized for matrix operations, especially in implementing mathematical aspects of the classifier.
 - **Pandas**: Used for data organization, exploration, and preprocessing.
-- Custom-coded algorithms for training the spam classifier, which may include techniques such as Naive Bayes, logistic regression, or other linear models.
-- Model evaluation metrics (e.g., accuracy, precision, recall, F1-score) for assessing classifier performance.
+- Custom-coded algorithms for training the spam classifier.
+- Model evaluation metrics for assessing classifier performance.
 
 The primary goal of this notebook is to create an effective spam classifier based on the features extracted during the preprocessing phase.
 
